@@ -9,9 +9,9 @@
   <br />
   <br />
 
-  <h2 align="center">InnoHub - Digital Marketing Agency Website</h2>
+  <h2 align="center"> SewYantra</h2>
 
-  InnoHub is a fully responsive digital marketing agency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  <b>SewYantra</b>
 
   <a href="https://codewithsadee.github.io/innohub/"><strong>➥ Live Demo</strong></a>
 
